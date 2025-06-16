@@ -1,4 +1,4 @@
-# Network and Mobile Systems Laboratory, IIT Bhilai
+# NAMS Research Laboratory, IIT Bhilai
 
 ---
 [Visit Our Official Research Lab Website](https://research.iitbhilai.ac.in/nams/)
