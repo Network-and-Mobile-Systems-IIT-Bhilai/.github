@@ -1,5 +1,4 @@
-# Non-Terrestrial-Network-Research-Lab
-## Network and Mobile Systems Laboratory, IIT Bhilai
+# Network and Mobile Systems Laboratory, IIT Bhilai
 
 ---
 [Visit Our Official Research Lab Website](https://research.iitbhilai.ac.in/nams/)
